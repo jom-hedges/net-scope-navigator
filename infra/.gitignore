@@ -1,0 +1,5 @@
+// state management
+terraform.tfstate
+terraform.tfstate.backup
+*.tfstate
+*.tfstate.backup
